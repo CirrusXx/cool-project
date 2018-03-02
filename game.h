@@ -9,6 +9,7 @@ enum gameState{MENU,INGAME};
 
 class Game
 {
+    //ok dziala
     sf::RenderWindow* window;
     EventHandler evHandler;
     TextureLoader txtLoader;
